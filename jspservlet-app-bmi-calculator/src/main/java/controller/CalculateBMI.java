@@ -4,7 +4,8 @@ package controller;
 
 	//Enter the code here....
 	 public static double calculateBmi(double height, double weight){
-		return bmi = weight/(height*height);
+		double bmi = weight/(height*height);
+		
 	 }
 	 public static String description(double bmi){
 		if(bmi<18.5){

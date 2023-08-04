@@ -21,7 +21,7 @@ public class CalculateBMI {
 			return "Obese";
 		}
 		else{
-			return "Extremely Obese"
+			return "Extremely Obese";
 		}
 	 }
 }

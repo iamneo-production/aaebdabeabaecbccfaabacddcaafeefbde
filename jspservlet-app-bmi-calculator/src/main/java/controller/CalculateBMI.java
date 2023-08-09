@@ -1,4 +1,4 @@
-Package controller;
+package controller;
 
  public class CalculateBMI {
 
